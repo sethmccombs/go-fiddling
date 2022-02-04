@@ -19,5 +19,3 @@ func ExampleAdd() {
 	fmt.Println(sum)
 	// Output: 6
 }
-
-// Left off here - https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers#examples
